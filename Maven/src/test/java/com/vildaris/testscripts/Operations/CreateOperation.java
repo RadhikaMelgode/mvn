@@ -8,5 +8,6 @@ public class CreateOperation {
 	@Test
 	public void createOp() {
 		Reporter.log("Campaign created", true);
+		Reporter.log("campaign modified", true);
 	}
 }
